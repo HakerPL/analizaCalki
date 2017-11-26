@@ -1,0 +1,16 @@
+﻿  Moc'ing Majca.h...
+  Uic'ing Majca.ui...
+  Rcc'ing Majca.qrc...
+RCC : warning : No resources in 'F:\Moje Programy\C++\analizaCalki\Majca\Majca.qrc'.
+  
+  Euler.cpp
+  moc_Majca.cpp
+  main.cpp
+  Majca.cpp
+  Midpoint.cpp
+  RungegoKutty.cpp
+  Taylor.cpp
+  Generating Code...
+  qrc_Majca.cpp
+  Majca.vcxproj -> F:\Moje Programy\C++\analizaCalki\x64\Debug\Majca.exe
+  Majca.vcxproj -> F:\Moje Programy\C++\analizaCalki\x64\Debug\Majca.pdb (Full PDB)
